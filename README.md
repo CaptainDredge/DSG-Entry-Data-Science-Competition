@@ -1,5 +1,6 @@
 # DSG-Entry-Data-Science-Competition
 ![Alt text](DSGlogo.png?raw=true "DSG")
+
 My kernel submission for Mushroom Dataset which has been given as a problem for analysing as a part of DSG Entry data science competition!
 Problem Statement
 
